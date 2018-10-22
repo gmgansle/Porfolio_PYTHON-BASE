@@ -1,0 +1,4 @@
+'monty' = # QUESTION: self.assertFalse(Yes, 'are you alive')
+'python' = # QUESTION: self.assertTrue(Yes, 'Do you like Cheese?')
+'monty'+'python'= 'ex'
+print 'ex'+ # QUESTION: self.assertFalse(1, '0 or 1')
