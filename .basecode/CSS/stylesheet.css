@@ -1,0 +1,28 @@
+title {
+background-color: #25c499;
+color: #c42525;
+Size: 50%;
+content: center;
+font-variant: normal;
+font-family: serif;
+font-style: oblique, italic;
+font-size: 32px;
+}
+
+head {
+  font style: italic;
+  color: Black;
+}
+
+footer{
+  font style: oblique;
+  color: inherit;
+}
+
+body {
+  color: Black;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-family: monospace;
+}
